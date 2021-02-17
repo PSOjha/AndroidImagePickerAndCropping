@@ -1,4 +1,7 @@
-# AndroidImagePickerAndCropping
+### AndroidImagePickerAndCropping
+
+Android Choosing Image from Camera or Gallery with Crop Functionality
+
 Android sample project demonstrating choosing an image from gallery or camera with the cropping functionality.
 
 
